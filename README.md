@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> pokedex exercise original tut by James Q Quick Video : https://youtu.be/T-VQUKeSU1w
+> pokedex javascript fetch exercise original tut by James Q Quick Video : https://youtu.be/T-VQUKeSU1w
 
 ### 🏠 [Homepage](https://codepen.io/jamesqquick/pen/NWKaNQz)
 
