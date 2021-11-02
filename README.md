@@ -16,6 +16,6 @@
 
 * Twitter: [@watdafawx](https://twitter.com/watdafawx)
 * Github: [@watdafawx](https://github.com/watdafawx)
-* LinkedIn: [@michael-saad-261256212](https://linkedin.com/in/michael-saad-261256212)
+* LinkedIn: [@michaelsaad](https://linkedin.com/in/michael-saad-261256212)
 
 ---
